@@ -88,4 +88,3 @@ B2B catalog architecture, performance engineering, technical SEO, secure public 
 ## Verification Notes
 
 The approximate page count refers to canonical product routes in the verified catalog build materials. Screenshots show public production interfaces. Private source code, supplier data, customer records, server details, and internal telemetry are excluded.
-

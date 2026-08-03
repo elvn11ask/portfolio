@@ -13,7 +13,7 @@ FONT_BOLD = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
 
 PROJECTS = [
     ("CHIPFASTENERS", ASSETS / "chipfasteners/portfolio-cover.png"),
-    ("ICPROM", ASSETS / "icprom/portfolio-cover.png"),
+    ("ICPROM", ASSETS / "icprom/portfolio-cover.jpg"),
     ("ELVN", ASSETS / "elvn/portfolio-cover.png"),
     ("ARMSENS ACADEMY", ASSETS / "armsens-academy/portfolio-cover.png"),
     ("PETERHOFAPART", ASSETS / "peterhofapart/portfolio-cover.png"),

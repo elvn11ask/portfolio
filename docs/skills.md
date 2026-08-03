@@ -54,4 +54,3 @@ Next.js, React, Node.js, Tailwind CSS, Prisma, and Zod.
 - deterministic previews when no production model provider is connected
 
 No deployed OpenAI API integration is claimed by this portfolio without separate production verification.
-

@@ -87,4 +87,3 @@ Hospitality UX, responsive design, visual content engineering, technical SEO, th
 ## Verification Notes
 
 Screenshots show public website views. This case study does not claim increased booking conversion, revenue, occupancy, or traffic because those outcomes are not supported by approved data.
-

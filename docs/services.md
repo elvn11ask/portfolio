@@ -14,4 +14,3 @@ Engagements are scoped around the business problem, production constraints, and 
 | Website Audits and Recovery | Business with regressions or an unstable production site | Performance, crawlability, UX, or deployment behavior has degraded | Evidence inventory, prioritized findings, controlled fixes, before/after verification | ChipFasteners, ICPROM |
 | Multilingual Web Products | International product or learning platform | Locale structure and interaction behavior diverge across languages | Locale architecture, responsive content, language QA, metadata and route strategy | ARMSENS Academy |
 | Custom Dashboards and Internal Tools | Operations or product team | Manual workflows and fragmented data slow decisions | Workflow mapping, typed interfaces, validation, role-aware UI, deployment | Available as a scoped engagement; no private client system is shown here |
-

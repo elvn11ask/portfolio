@@ -9,7 +9,7 @@ Ready-to-copy public values:
 | Headline for other platforms | Senior Full-Stack Developer & Product Engineer | Ready |
 | Company | Leave blank | Set `Independent / RoMaks Technologies` only after explicit approval |
 | Location | Leave blank | Add only an approved public city, region, or country |
-| Website | https://github.com/elvn11ask/portfolio | Use until a final personal portfolio or Contra URL is approved |
+| Website | `https://github.com/elvn11ask/portfolio` | Use until a final personal portfolio or Contra URL is approved |
 
 ## Social links
 
@@ -27,4 +27,3 @@ Description:
 Topics:
 
 `portfolio`, `full-stack`, `nextjs`, `react`, `typescript`, `php`, `nodejs`, `technical-seo`, `performance`, `docker`, `nginx`, `b2b`, `saas`, `web-development`, `product-engineering`
-

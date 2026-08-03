@@ -21,4 +21,3 @@ OpenAI Codex is used as an engineering tool for structured research, implementat
 ## Production Integration Standard
 
 A deployed integration should identify its provider boundary, secret handling, input validation, rate and cost controls, failure modes, telemetry, privacy behavior, test strategy, and deterministic fallback. This repository does not infer those properties from marketing copy.
-

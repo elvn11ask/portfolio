@@ -67,19 +67,19 @@ Large-catalog architecture, immutable data publishing, PHP performance, technica
 
 ## Screenshots
 
-![ICPROM portfolio cover showing the public catalog homepage](../assets/icprom/portfolio-cover.png)
+![ICPROM portfolio cover showing the public catalog homepage](../assets/icprom/portfolio-cover.jpg)
 
-![ICPROM desktop homepage](../assets/icprom/homepage-desktop.png)
+![ICPROM desktop homepage](../assets/icprom/homepage-desktop.jpg)
 
-![ICPROM desktop catalog page](../assets/icprom/catalog-desktop.png)
+![ICPROM desktop catalog page](../assets/icprom/catalog-desktop.jpg)
 
-![ICPROM desktop product detail page](../assets/icprom/product-desktop.png)
+![ICPROM desktop product detail page](../assets/icprom/product-desktop.jpg)
 
-![ICPROM mobile homepage](../assets/icprom/homepage-mobile.png)
+![ICPROM mobile homepage](../assets/icprom/homepage-mobile.jpg)
 
-![ICPROM mobile product detail page](../assets/icprom/product-mobile.png)
+![ICPROM mobile product detail page](../assets/icprom/product-mobile.jpg)
 
-![ICPROM request-for-quote page](../assets/icprom/rfq-desktop.png)
+![ICPROM request-for-quote page](../assets/icprom/rfq-desktop.jpg)
 
 ## Live Project
 
@@ -88,4 +88,3 @@ Large-catalog architecture, immutable data publishing, PHP performance, technica
 ## Verification Notes
 
 The approximate product count refers to the verified catalog dataset documented for this runtime, not a claim about daily stock availability. Screenshots were captured from the public production site. Internal infrastructure and business data are excluded.
-

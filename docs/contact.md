@@ -14,4 +14,3 @@ Specializing in:
 Public contact channel: [GitHub profile](https://github.com/elvn11ask).
 
 Additional Contra, LinkedIn, or personal-site links can be added after the exact public URLs are approved.
-

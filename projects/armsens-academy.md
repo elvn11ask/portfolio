@@ -87,4 +87,3 @@ Multilingual product development, interactive React UX, accessibility, test auto
 ## Verification Notes
 
 Seven languages and five missions are product counts, not usage metrics. The tutor preview is deterministic and is not presented as a live LLM service unless a production provider connection is independently verified.
-

@@ -19,4 +19,3 @@ Character count: **129**
 > Senior Full-Stack Developer | Next.js, React, TypeScript, PHP, technical SEO, performance engineering, Linux, Nginx, and Docker.
 
 Character count: **128**
-

@@ -39,4 +39,3 @@ A prototype, deterministic preview, provider-ready boundary, deployed integratio
 ## Validate AI-assisted work
 
 AI can accelerate research, implementation, and review. It does not replace source verification, tests, security review, or professional judgment.
-

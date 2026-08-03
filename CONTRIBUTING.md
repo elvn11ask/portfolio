@@ -14,4 +14,3 @@ This repository presents selected production work as evidence-based engineering 
 ## Proposing a correction
 
 Open an issue with the affected file, the proposed correction, and a public verification source when one exists. Security concerns should follow [SECURITY.md](SECURITY.md).
-

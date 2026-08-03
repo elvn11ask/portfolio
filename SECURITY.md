@@ -11,4 +11,3 @@ Include the affected file and a concise description. Do not include copied crede
 ## Scope
 
 Reports about the public websites linked from these case studies should be sent to the appropriate website operator. This repository contains portfolio documentation and screenshots only.
-
