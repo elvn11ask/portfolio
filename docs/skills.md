@@ -1,6 +1,6 @@
 # Skills
 
-Only skills supported by the featured work and approved portfolio materials are listed here.
+Technologies and engineering practices used across the featured projects.
 
 ## Languages
 
@@ -19,7 +19,6 @@ Next.js, React, Node.js, Tailwind CSS, Prisma, and Zod.
 - multilingual products
 - responsive design
 - accessibility
-- AI-ready architecture
 
 ## Performance and SEO
 
@@ -46,11 +45,3 @@ Next.js, React, Node.js, Tailwind CSS, Prisma, and Zod.
 - Vitest and Playwright
 - production smoke testing
 - release verification
-
-## AI
-
-- OpenAI Codex for AI-assisted development workflows
-- provider-agnostic LLM architecture
-- deterministic previews when no production model provider is connected
-
-No deployed OpenAI API integration is claimed by this portfolio without separate production verification.

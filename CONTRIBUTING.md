@@ -1,6 +1,6 @@
 # Contributing
 
-This repository presents selected production work as evidence-based engineering case studies. It does not accept source-code contributions for the featured products.
+This repository presents selected production work as engineering case studies. It does not accept source-code contributions for the featured products.
 
 ## Content standards
 

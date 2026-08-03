@@ -10,11 +10,11 @@ Learners need a responsive, approachable way to move from electronics concepts t
 
 ## Challenge
 
-Build interactive teaching controls that remain accessible, predictable, testable, and safe while leaving a clean integration boundary for a future tutor provider.
+Build interactive teaching controls that remain accessible, predictable, testable, and easy to extend as the learning product grows.
 
 ## Solution
 
-The product delivers five deterministic electronics missions, seven-language navigation, teaching-mode controls, responsive lesson views, accessible focus states, and reduced-motion support.
+The product delivers five electronics missions, seven-language navigation, teaching-mode controls, responsive lesson views, accessible focus states, and reduced-motion support.
 
 ## Architecture
 
@@ -22,8 +22,8 @@ The product delivers five deterministic electronics missions, seven-language nav
 - schema validation with Zod
 - static production build
 - automated component and interaction tests
-- provider-agnostic tutor boundary
-- deterministic preview behavior when no live model provider is connected
+- reusable lesson and tutor interface boundaries
+- predictable preview behavior for testing and product demonstrations
 
 ## My Role
 
@@ -40,7 +40,7 @@ Senior Full-Stack Developer and Product Engineer across multilingual product arc
 
 ## Engineering Highlights
 
-Tutor-related UI is separated from provider-specific behavior. The portfolio preview uses deterministic, bounded responses so the learning flow can be demonstrated and tested without implying a live LLM service.
+Tutor-related UI is separated from lesson state and content data, which keeps the learning flow easier to test and extend.
 
 ## Performance and Quality
 
@@ -56,7 +56,7 @@ Visible focus states, semantic controls, reduced-motion behavior, keyboard inter
 
 ## Security and Deployment
 
-The public preview does not require a live LLM credential. Provider connections, if added, can remain server-side behind validated boundaries without exposing secrets to the browser.
+External service connections can remain server-side behind validated boundaries without exposing credentials to the browser.
 
 ## Technologies
 
@@ -64,7 +64,7 @@ Next.js, React, TypeScript, Node.js, Tailwind CSS, Prisma, Zod, Vitest, and stat
 
 ## Skills Demonstrated
 
-Multilingual product development, interactive React UX, accessibility, test automation, schema validation, static delivery, and provider-agnostic AI-ready architecture.
+Multilingual product development, interactive React UX, accessibility, test automation, schema validation, static delivery, and modular product architecture.
 
 ## Screenshots
 
@@ -83,7 +83,3 @@ Multilingual product development, interactive React UX, accessibility, test auto
 ## Live Project
 
 [academy.armsens.com](https://academy.armsens.com)
-
-## Verification Notes
-
-Seven languages and five missions are product counts, not usage metrics. The tutor preview is deterministic and is not presented as a live LLM service unless a production provider connection is independently verified.

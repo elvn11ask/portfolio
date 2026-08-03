@@ -32,10 +32,6 @@ Useful telemetry, smoke checks, health signals, and release notes turn productio
 
 Collect the minimum analytics needed to answer a product question. Consent, retention, and third-party behavior should be explicit.
 
-## Name the maturity level
+## Keep prototypes and production separate
 
-A prototype, deterministic preview, provider-ready boundary, deployed integration, and production service are different states and should be described differently.
-
-## Validate AI-assisted work
-
-AI can accelerate research, implementation, and review. It does not replace source verification, tests, security review, or professional judgment.
+A prototype, staging build, and production service have different requirements. I label them clearly and validate each one against the right standard.

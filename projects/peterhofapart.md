@@ -44,7 +44,7 @@ Static generation keeps primary hospitality content fast and indexable while thi
 
 ## Performance and Quality
 
-Work includes responsive image preparation, static output validation, loading-state handling, and production checks. No booking conversion, revenue, or Core Web Vitals improvement is claimed without supporting data.
+Work includes responsive image preparation, static output validation, loading-state handling, and production checks.
 
 ## Technical SEO
 
@@ -83,7 +83,3 @@ Hospitality UX, responsive design, visual content engineering, technical SEO, th
 ## Live Project
 
 [peterhofapart.ru](https://peterhofapart.ru)
-
-## Verification Notes
-
-Screenshots show public website views. This case study does not claim increased booking conversion, revenue, occupancy, or traffic because those outcomes are not supported by approved data.

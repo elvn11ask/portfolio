@@ -8,7 +8,6 @@ Specializing in:
 - B2B platforms
 - performance engineering
 - technical SEO
-- AI-ready web products
 - production deployment
 
 Public contact channel: [GitHub profile](https://github.com/elvn11ask).

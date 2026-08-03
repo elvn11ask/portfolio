@@ -44,7 +44,7 @@ Content stays portable and reviewable in Markdown while the runtime provides sem
 
 ## Performance and Quality
 
-Validation includes linting, TypeScript checks, automated tests, production builds, and release smoke testing. No synthetic score is claimed without a repository audit artifact.
+Validation includes linting, TypeScript checks, automated tests, production builds, and release smoke testing.
 
 ## Technical SEO
 
@@ -83,7 +83,3 @@ Full-stack product development, content architecture, technical SEO, privacy-con
 ## Live Project
 
 [elvn.monster](https://elvn.monster)
-
-## Verification Notes
-
-ELVN is not described here as a deployed AI product because no live AI feature is asserted by the approved portfolio evidence. Public pages and approved screenshots are included; private deployment details are not.

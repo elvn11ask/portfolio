@@ -43,7 +43,7 @@ The generated-artifact approach separates heavy catalog preparation from request
 
 ## Performance and Quality
 
-Response-time optimization focused on bounded reads, memory use, and crawl stability under large route sets. This case study does not publish an unverified percentile, Lighthouse score, or crawler throughput number.
+Response-time optimization focused on bounded reads, memory use, and crawl stability across a large route set.
 
 ## Technical SEO
 
@@ -55,7 +55,7 @@ The responsive interface uses semantic headings, labeled search and RFQ controls
 
 ## Security and Deployment
 
-The public application is deployed over HTTPS behind Nginx. Operational descriptions are intentionally sanitized; no internal hosts, addresses, credentials, or database details are published.
+The public application is deployed over HTTPS behind Nginx, with repeatable release and rollback procedures.
 
 ## Technologies
 
@@ -84,7 +84,3 @@ Large-catalog architecture, immutable data publishing, PHP performance, technica
 ## Live Project
 
 [icprom.ru](https://icprom.ru)
-
-## Verification Notes
-
-The approximate product count refers to the verified catalog dataset documented for this runtime, not a claim about daily stock availability. Screenshots were captured from the public production site. Internal infrastructure and business data are excluded.

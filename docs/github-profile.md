@@ -4,9 +4,9 @@ GitHub bios allow up to 160 characters. Counts below include spaces and punctuat
 
 ## Version 1 — Recommended
 
-> Senior Full-Stack Developer building high-performance web platforms, B2B systems, and AI-ready products with Next.js, PHP, TypeScript, and Docker.
+> Senior Full-Stack Developer building high-performance web platforms, B2B systems, and production-ready products with Next.js, PHP, TypeScript, and Docker.
 
-Character count: **146**
+Character count: **154**
 
 ## Version 2 — Product-focused
 

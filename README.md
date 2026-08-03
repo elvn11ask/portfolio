@@ -1,148 +1,109 @@
 # Vitalii Kutepov
 
-![Vitalii Kutepov — Senior Full-Stack Developer building high-performance web platforms](assets/profile/github-profile-cover.png)
+![Vitalii Kutepov — Senior Full-Stack Developer](assets/profile/github-profile-cover.png)
 
-## Senior Full-Stack Developer | AI-Ready Products & High-Performance Web Platforms
+## Senior Full-Stack Developer & Product Engineer
 
-I build scalable web platforms, B2B catalog systems, interactive products, and high-performance business websites from architecture to production.
+I build web products from architecture to production: B2B catalogs, procurement systems, content platforms, multilingual applications, and high-performance business websites.
 
-My work spans full-stack product development, large B2B platforms, SaaS and web applications, technical SEO, responsive UX, accessibility, performance engineering, and secure production deployment. I work across Next.js, React, TypeScript, PHP, Node.js, Linux, Nginx, Docker, and relational data systems.
+My main stack is PHP, TypeScript, Next.js, React, Node.js, MySQL, Docker, Linux, and Nginx. I also work extensively with technical SEO, accessibility, responsive interfaces, performance optimization, and production deployment.
 
-AI is described precisely in this portfolio: deployed integrations are separated from provider-agnostic architecture, AI-assisted development workflows, and deterministic product previews. No featured project is presented as a live AI service without production evidence.
+[Projects](#selected-projects) · [Skills](docs/skills.md) · [Services](docs/services.md) · [Engineering principles](docs/engineering-principles.md) · [Contact](docs/contact.md)
 
-[Featured projects](#featured-projects) · [Skills](docs/skills.md) · [Services](docs/services.md) · [Engineering principles](docs/engineering-principles.md) · [AI development](docs/ai-development.md) · [Contact](docs/contact.md)
-
-## What I Build
-
-- full-stack SaaS and web applications
-- large B2B catalogs and procurement workflows
-- multilingual, responsive products
-- canonical, crawl-stable technical SEO architecture
-- accessible interfaces and interaction systems
-- performance-oriented server and data runtimes
-- secure Linux, Nginx, and Docker deployments
-
-## Featured Projects
+## Selected Projects
 
 ### ChipFasteners
 
-**High-performance B2B electronic components procurement platform.**
+B2B electronic components procurement platform.
 
-[![ChipFasteners portfolio cover](assets/chipfasteners/portfolio-cover.png)](projects/chipfasteners.md)
+[![ChipFasteners desktop and mobile views](assets/chipfasteners/portfolio-cover.png)](projects/chipfasteners.md)
 
-- **Live:** [chipfasteners.com](https://chipfasteners.com)
-- **Business context:** component buyers need exact part-number discovery, manufacturer/family navigation, BOM intake, and an RFQ-first path.
-- **Core challenge:** serve approximately 88,000 canonical product pages without making catalog parsing, memory use, or crawl behavior unpredictable.
-- **Solution:** generated immutable catalog artifacts, page-ready data slices, canonical route architecture, structured data, secure public forms, and monitored releases.
-- **My role:** senior full-stack and product engineering across architecture, public UX, performance, SEO, forms, validation, and deployment.
-- **Verified scale:** approximately 88,000 canonical product routes in the documented catalog build.
-- **Key technologies:** PHP, JavaScript, HTML, CSS, SQL, JSON-LD, Linux, Nginx, Playwright.
-- **Case study:** [Read the ChipFasteners engineering case study](projects/chipfasteners.md).
+ChipFasteners is a large electronic components catalog built around exact part-number search and RFQ workflows. I worked on the catalog architecture, manufacturer and family navigation, BOM upload, quote basket, structured data, secure public forms, performance, and production releases.
+
+- approximately 88,000 canonical product pages
+- PHP runtime with precomputed catalog data
+- manufacturer, family, search, BOM, and RFQ workflows
+- technical SEO, JSON-LD, sitemaps, and canonical URLs
+- Linux and Nginx production environment
+
+[Live website](https://chipfasteners.com) · [Full case study](projects/chipfasteners.md)
 
 ### ICPROM
 
-**Large-scale industrial components catalog and SEO runtime.**
+Industrial components catalog and SEO runtime.
 
-[![ICPROM public catalog homepage](assets/icprom/portfolio-cover.jpg)](projects/icprom.md)
+[![ICPROM catalog homepage](assets/icprom/portfolio-cover.jpg)](projects/icprom.md)
 
-- **Live:** [icprom.ru](https://icprom.ru)
-- **Business context:** industrial buyers navigate electronic components, automation equipment, manufacturers, categories, MPNs, and OEM numbers.
-- **Core challenge:** keep a deep PHP/MySQL catalog fast and crawl-stable while preserving established SEO contracts.
-- **Solution:** immutable generated runtime artifacts for product slices, breadcrumbs, facets, summaries, and bounded request-time reads.
-- **My role:** senior full-stack and product engineering across runtime architecture, response-time work, technical SEO, UX, and release verification.
-- **Verified scale:** approximately 89,000 products in the catalog dataset documented for this runtime.
-- **Key technologies:** PHP, MySQL/MariaDB, SQL, JavaScript, HTML, CSS, JSON-LD, Linux, Nginx.
-- **Case study:** [Read the ICPROM engineering case study](projects/icprom.md).
+ICPROM is an industrial catalog for electronic components, automation equipment, and spare parts. My work focused on the PHP/MySQL runtime, catalog data preparation, category and manufacturer navigation, page speed, crawl stability, and preservation of existing search URLs.
+
+- approximately 89,000 products in the documented catalog dataset
+- generated page slices, breadcrumbs, facets, and summaries
+- MPN and OEM-number search
+- stable canonical routes and sitemap coverage
+- PHP, MySQL/MariaDB, JavaScript, Linux, and Nginx
+
+[Live website](https://icprom.ru) · [Full case study](projects/icprom.md)
 
 ### ELVN
 
-**Secure public product-building and transparency platform.**
+Public product-building and transparency platform.
 
-[![ELVN portfolio cover](assets/elvn/portfolio-cover.png)](projects/elvn.md)
+[![ELVN desktop and mobile views](assets/elvn/portfolio-cover.png)](projects/elvn.md)
 
-- **Live:** [elvn.monster](https://elvn.monster)
-- **Business context:** a public build journal, news stream, transparency ledger, and brand archive need to remain readable, portable, and indexable.
-- **Core challenge:** combine Markdown publishing, public records, privacy controls, responsive identity, and production security.
-- **Solution:** semantic server-rendered routes, RSS and sitemap generation, consent controls, tested Docker deployment, read-only filesystem, and rollback procedures.
-- **My role:** senior full-stack and product engineering across information architecture, implementation, SEO, privacy, tests, and deployment.
-- **Verified result:** journal, news, ledger, archive, RSS, and sitemap are delivered as public, indexable product surfaces.
-- **Key technologies:** Next.js, React, TypeScript, Node.js, Markdown, Docker, Linux, Nginx.
-- **Case study:** [Read the ELVN engineering case study](projects/elvn.md).
+ELVN combines a build journal, news, a transparency ledger, and a brand archive in one public platform. I designed and implemented the content structure, responsive interface, privacy controls, RSS and sitemap output, automated checks, and production deployment.
+
+- Next.js, React, TypeScript, and Markdown
+- server-rendered, indexable pages
+- RSS, sitemap, journal, news, ledger, and archive
+- Docker and Nginx deployment
+- read-only production filesystem and documented rollback
+
+[Live website](https://elvn.monster) · [Full case study](projects/elvn.md)
 
 ### ARMSENS Academy
 
-**Multilingual interactive electronics learning product.**
+Multilingual interactive electronics learning product.
 
-[![ARMSENS Academy portfolio cover](assets/armsens-academy/portfolio-cover.png)](projects/armsens-academy.md)
+[![ARMSENS Academy desktop and mobile views](assets/armsens-academy/portfolio-cover.png)](projects/armsens-academy.md)
 
-- **Live:** [academy.armsens.com](https://academy.armsens.com)
-- **Business context:** learners need guided electronics lessons that work across languages, devices, keyboard input, and motion preferences.
-- **Core challenge:** make interactive teaching behavior accessible, deterministic, testable, and ready for a future provider integration.
-- **Solution:** five guided missions, seven-language product structure, teaching-mode controls, accessible focus states, reduced motion, tests, and a provider-agnostic tutor boundary.
-- **My role:** senior full-stack and product engineering across multilingual architecture, React UX, accessibility, validation, testing, and build design.
-- **Verified scale:** seven supported languages and five interactive electronics missions.
-- **Key technologies:** Next.js, React, TypeScript, Node.js, Tailwind CSS, Prisma, Zod, Vitest.
-- **AI status:** the documented tutor preview is deterministic; it is not claimed as a live LLM service.
-- **Case study:** [Read the ARMSENS Academy engineering case study](projects/armsens-academy.md).
+ARMSENS Academy is an interactive learning platform with guided electronics missions. I worked on the multilingual structure, lesson interface, teaching controls, accessibility, responsive behavior, automated tests, and production build.
+
+- seven supported languages
+- five interactive electronics missions
+- accessible focus states and reduced-motion support
+- Next.js, React, TypeScript, Tailwind CSS, Prisma, Zod, and Vitest
+- static production build
+
+[Live website](https://academy.armsens.com) · [Full case study](projects/armsens-academy.md)
 
 ### PeterhofApart
 
-**Hospitality website and direct booking experience.**
+Hospitality website and direct booking experience.
 
-[![PeterhofApart portfolio cover](assets/peterhofapart/portfolio-cover.png)](projects/peterhofapart.md)
+[![PeterhofApart hospitality website](assets/peterhofapart/portfolio-cover.png)](projects/peterhofapart.md)
 
-- **Live:** [peterhofapart.ru](https://peterhofapart.ru)
-- **Business context:** guests need to compare accommodation, inspect rooms on mobile, find practical details, and move into a direct booking or contact journey.
-- **Core challenge:** balance visual storytelling, responsive media, third-party widgets, performance, and technical SEO.
-- **Solution:** statically generated accommodation pages, responsive imagery, explicit booking/contact paths, sitemap output, and resilient integration loading states.
-- **My role:** senior full-stack and product engineering across architecture, responsive implementation, image performance, SEO, integrations, and deployment.
-- **Verified result:** public room, apartment, location, contact, and booking journeys are represented across desktop and mobile screenshots.
-- **Key technologies:** Astro, TypeScript, JavaScript, HTML, CSS, Sharp, static generation, sitemap tooling, HTTPS.
-- **Case study:** [Read the PeterhofApart engineering case study](projects/peterhofapart.md).
+PeterhofApart presents rooms and apartments through a fast, responsive hospitality website. I developed the accommodation pages, mobile layouts, image pipeline, booking and contact paths, third-party integrations, technical SEO, and production delivery.
 
-## AI Capability, Stated Clearly
+- Astro and TypeScript static build
+- responsive room and apartment pages
+- booking, map, and communication integrations
+- optimized images and loading states
+- sitemap and production HTTPS deployment
 
-| Capability | Portfolio status |
-| --- | --- |
-| Deployed AI integrations | None claimed without separate production verification |
-| Provider-agnostic AI-ready architecture | Demonstrated by the ARMSENS Academy tutor boundary |
-| Deterministic product preview | Used to make tutor UX testable without implying a live model call |
-| AI-assisted development | OpenAI Codex used with source verification, tests, visual QA, and security review |
-| ELVN as a live AI product | Not claimed |
+[Live website](https://peterhofapart.ru) · [Full case study](projects/peterhofapart.md)
 
-Read the full [AI development position](docs/ai-development.md).
+## What I Work On
 
-## Engineering Approach
-
-- measure a named signal instead of using vague optimization language
-- preserve canonical URLs, metadata, and crawl contracts
-- design accessibility into structure and interaction
-- move expensive work out of public request paths
-- keep releases observable and rollback documented
-- distinguish prototypes, previews, integrations, and production services
-- use AI as an engineering tool, never as a substitute for validation
-
-## Services
-
-Available for selected freelance, contract, and product engineering engagements involving:
-
-- high-performance business websites
+- full-stack web product development
 - B2B catalogs and procurement platforms
 - SaaS and MVP development
-- AI-ready product architecture
 - technical SEO and crawl optimization
-- performance and Core Web Vitals engineering
-- production deployment and infrastructure
-- multilingual web products
-
-See [services and example fit](docs/services.md).
+- performance and Core Web Vitals
+- multilingual and accessible interfaces
+- Linux, Nginx, Docker, TLS, logging, and rollback procedures
 
 ## Contact
 
-Available for selected freelance, contract, and product engineering engagements.
+I am available for selected freelance, contract, and product engineering work.
 
-Start with the [GitHub profile](https://github.com/elvn11ask) or review the approved channels in [docs/contact.md](docs/contact.md). No private phone number or unapproved contact detail is published in this repository.
-
-## Repository Notes
-
-This is a portfolio, not a source-code dump. It contains public project information, sanitized architecture descriptions, approved screenshots, and evidence-bounded claims. Proprietary source code, credentials, customer information, private infrastructure, analytics identifiers, and internal business data are intentionally excluded.
+[GitHub](https://github.com/elvn11ask) · [Services](docs/services.md) · [Contact details](docs/contact.md)

@@ -5,7 +5,7 @@ Ready-to-copy public values:
 | Field | Value | Status |
 | --- | --- | --- |
 | Name | Vitalii Kutepov | Ready |
-| Bio | Senior Full-Stack Developer building high-performance web platforms, B2B systems, and AI-ready products with Next.js, PHP, TypeScript, and Docker. | Recommended; 146 characters |
+| Bio | Senior Full-Stack Developer building high-performance web platforms, B2B systems, and production-ready products with Next.js, PHP, TypeScript, and Docker. | Recommended; 154 characters |
 | Headline for other platforms | Senior Full-Stack Developer & Product Engineer | Ready |
 | Company | Leave blank | Set `Independent / RoMaks Technologies` only after explicit approval |
 | Location | Leave blank | Add only an approved public city, region, or country |
@@ -22,7 +22,7 @@ Ready-to-copy public values:
 
 Description:
 
-> Selected production case studies in full-stack development, B2B platforms, AI-ready products, technical SEO, and performance engineering.
+> Selected production case studies in full-stack development, B2B platforms, technical SEO, performance engineering, and production deployment.
 
 Topics:
 

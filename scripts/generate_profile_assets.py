@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate deterministic portfolio banners from unmodified project screenshots."""
+"""Generate portfolio banners from project screenshots."""
 
 from pathlib import Path
 
@@ -59,7 +59,7 @@ def render_social() -> None:
     draw = ImageDraw.Draw(canvas)
     draw.text((58, 78), "Vitalii Kutepov", font=font(52, True), fill="#f4f7f6")
     draw.text((60, 145), "Senior Full-Stack Developer", font=font(24, True), fill="#7ee0bf")
-    for index, line in enumerate(("High-Performance Web Platforms", "B2B Systems", "AI-Ready Products")):
+    for index, line in enumerate(("High-Performance Web Platforms", "B2B Systems", "Product Engineering")):
         draw.text((60, 225 + index * 48), line, font=font(24, index == 0), fill="#f4f7f6")
     draw.text((60, 494), "Next.js   React   TypeScript   PHP   Docker   Nginx", font=font(15), fill="#adc0ba")
     positions = [(500, 42, 230, 250), (744, 42, 230, 250), (988, 42, 230, 250), (620, 314, 278, 250), (912, 314, 278, 250)]
@@ -73,7 +73,7 @@ def render_github_cover() -> None:
     draw = ImageDraw.Draw(canvas)
     draw.text((48, 54), "Vitalii Kutepov", font=font(43, True), fill="#f4f7f6")
     draw.text((50, 116), "Senior Full-Stack Developer", font=font(23, True), fill="#7ee0bf")
-    draw.text((50, 168), "High-Performance Web Platforms  ·  B2B Systems  ·  AI-Ready Products", font=font(17), fill="#d8e3df")
+    draw.text((50, 168), "High-Performance Web Platforms  ·  B2B Systems  ·  Product Engineering", font=font(17), fill="#d8e3df")
     positions = [(720, 25, 160, 255), (892, 25, 160, 255), (1064, 25, 160, 255)]
     for (label, source), box in zip(PROJECTS[:3], positions):
         card(canvas, label, source, box, 0.8)
@@ -87,7 +87,7 @@ def render_contra() -> None:
     draw.text((124, 345), "Senior Full-Stack Developer", font=font(52, True), fill="#7ee0bf")
     draw.text((124, 500), "High-Performance Web Platforms", font=font(50, True), fill="#f4f7f6")
     draw.text((124, 578), "B2B Systems", font=font(50), fill="#f4f7f6")
-    draw.text((124, 656), "AI-Ready Products", font=font(50), fill="#f4f7f6")
+    draw.text((124, 656), "Product Engineering", font=font(50), fill="#f4f7f6")
     draw.text((124, 1200), "Next.js   React   TypeScript   PHP   Docker   Nginx", font=font(30), fill="#adc0ba")
     positions = [(1030, 100, 420, 520), (1480, 100, 420, 520), (1930, 100, 420, 520), (1260, 690, 500, 520), (1790, 690, 500, 520)]
     for (label, source), box in zip(PROJECTS, positions):

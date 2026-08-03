@@ -43,7 +43,7 @@ Catalog data is built into immutable, precomputed artifacts so public requests d
 
 ## Performance and Quality
 
-Work included request-path profiling, runtime and memory optimization, production telemetry, smoke tests, and release verification. No performance score is published here because a comparable public audit artifact is not included in this repository.
+Work included request-path profiling, runtime and memory optimization, production telemetry, smoke tests, and release verification.
 
 ## Technical SEO
 
@@ -55,7 +55,7 @@ Responsive layouts, semantic page structure, labeled controls, and keyboard-visi
 
 ## Security and Deployment
 
-Public forms use validation and abuse-resistant handling. Production work includes Linux, Nginx, monitored releases, and documented rollback without exposing infrastructure identifiers.
+Public forms use validation and abuse-resistant handling. Production work includes Linux, Nginx, monitored releases, and documented rollback procedures.
 
 ## Technologies
 
@@ -63,7 +63,7 @@ PHP, JavaScript, HTML, CSS, SQL, JSON-LD, Linux, Nginx, and automated browser te
 
 ## Skills Demonstrated
 
-B2B catalog architecture, performance engineering, technical SEO, secure public workflows, responsive UX, production operations, and evidence-based release validation.
+B2B catalog architecture, performance engineering, technical SEO, secure public workflows, responsive UX, production operations, and release validation.
 
 ## Screenshots
 
@@ -84,7 +84,3 @@ B2B catalog architecture, performance engineering, technical SEO, secure public 
 ## Live Project
 
 [chipfasteners.com](https://chipfasteners.com)
-
-## Verification Notes
-
-The approximate page count refers to canonical product routes in the verified catalog build materials. Screenshots show public production interfaces. Private source code, supplier data, customer records, server details, and internal telemetry are excluded.
